@@ -1,3 +1,9 @@
+=begin
+# references
+* usage of swt gem -- https://github.com/danlucraft/swt/blob/master/examples/menu_and_toolbar.rb
+* SWT tray example -- http://git.eclipse.org/c/platform/eclipse.platform.swt.git/tree/examples/org.eclipse.swt.snippets/src/org/eclipse/swt/snippets/Snippet143.java
+=end
+
 require 'java'
 require 'swt'
 
