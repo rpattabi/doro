@@ -1,0 +1,3 @@
+[submodule "dependencies/swt"]
+	path = dependencies/swt
+	url = https://github.com/rpattabi/swt.git

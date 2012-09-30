@@ -28,7 +28,9 @@ class Doro
   end
 
   def setup_tray
-
+    display = Display.get_current
+    tray = display.get_system_tray
+    #tray_item = TrayItem.new(tray, SWT::NONE)
   end
 
   def start
